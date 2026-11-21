@@ -180,7 +180,7 @@ This project is developed for educational purposes to demonstrate the applicatio
 
 ## 👩‍💻 Author
 
-**Aparna**
+**Aparna**,**Anugrahasri**,**Shinerose**
 
 ## 📄 License
 
